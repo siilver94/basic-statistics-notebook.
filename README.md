@@ -1,4 +1,4 @@
 # 기초통계 공부 노트 (Basic Statistics Notebook)
 
 공부하자.
-열심히
+열심히 하자
